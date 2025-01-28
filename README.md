@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Me chamo Débora e sou estudante do segundo semestre de ADS    =)</h2>
+<h2 align="left">Olá👋! Me chamo Débora e sou estudante do terceiro semestre de ADS    =)</h2>
 
 ###
 
